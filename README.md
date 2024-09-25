@@ -12,10 +12,21 @@ Join me to create a Linux server with Ubuntu
 >6. Choose Ubuntu and download it
 >7. Go to storage choose your SD card.
 
-## Step 2
+## Step 2 
+set up Ubuntu
+
+>1. choose your language  
+>2. choose your keyboard
+>3. choose your time zone
+>4. continue and let ubuntu download
+>5. Ubuntu is ready for use
+
+## Step 3
 Setup SSH 
 
 > 1. Open your Ubuntu 
-
-> 2. Type
+> 2. go to cmd
+> 3. Type
 > ```  sudo apt-get install openssh-server ``` 
+> 4. then your SSH is ready you can start ssh
+> 5. 
