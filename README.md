@@ -9,3 +9,7 @@ Join me to create a Linux server with Ubuntu
 
 
 ## Step 2
+Setup SSH 
+
+> 1. To start the setup of SSH you need to open your Ubuntu 
+> 2. 
