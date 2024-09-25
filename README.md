@@ -35,3 +35,6 @@ Setup SSH and MariaDB
 Now you have connected your laptop to your Ubuntu server with SSH.
 
 ## MariaDB 
+
+> 1. Download [MariaDB](https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.5.2&os=windows&cpu=x86_64&pkg=msi&mirror=dotsrc) 
+> 2. Go to CMD and type ```Sudo MariaDB```
