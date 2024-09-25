@@ -22,11 +22,16 @@ set up Ubuntu
 >5. Ubuntu is ready for use
 
 ## Step 3
-Setup SSH 
+Setup SSH and MariaDB
 
 > 1. Open your Ubuntu 
 > 2. go to cmd
 > 3. Type
 > ```  sudo apt-get install openssh-server ``` 
-> 4. then your SSH is ready you can start ssh
-> 5. 
+> 4. then your SSH is ready you can start SSH
+> 5. if you want to connect it to your laptop type
+ ```ssh username@ip-address```
+
+Now you have connected your laptop to your Ubuntu server with SSH.
+
+## MariaDB 
