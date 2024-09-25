@@ -2,12 +2,15 @@
 Join me to create a Linux server with Ubuntu
 
 ## Step 1 
-> 1. First of all You need to download [Rasberry Imager](https://www.raspberrypi.com/software/).
-> 2. Then you need to download Ubuntu on you SSD card from your Rasberry PI place it in your laptop to start the process. 
+>1. Download [Rasberry Imager](https://www.raspberrypi.com/software/).
+>2. Download Ubuntu on your SD
+>3. Put you SD in your Laptop
 <img src="https://i.imgur.com/YhBR0cL.png">
-> 3. When your done downloading the Rasberry Imager you need to Download Ubuntu
-> 4. Go to Operating System in your rasberry imager go to Other General-Purpose OS there you will find Ubuntu download it then step 1 is done. 
-
+>4. Go to operating system 
+>5. Find "Other general-purpose OS"
+<img src="https://i.imgur.com/CkIYHjG.png">
+>6. Choose Ubuntu and download it
+>7. Go to storage choose your SD card.
 
 ## Step 2
 Setup SSH 
