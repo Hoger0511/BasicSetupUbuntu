@@ -30,7 +30,8 @@ Setup SSH and MariaDB
 > ```  sudo apt-get install openssh-server ``` 
 > 4. then your SSH is ready you can start SSH
 > 5. Open PowerShell as administrator.
-> 6. if you want to connect it to your laptop type
+> 6.  Use this ```New-NetFirewallRule -Name sshd -DisplayName 'OpenSSH Server (sshd)' -Enabled True -Direction Inbound -Protocol TCP -Action Allow -LocalPort 22```
+> 7. if you want to connect it to your laptop type
  ```ssh username@ip-address```
 
 Now you have connected your laptop to your Ubuntu server with SSH.
